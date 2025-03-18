@@ -2,7 +2,7 @@
 
 A beautiful, interactive website designed to ask someone special out for coffee in a cute and engaging way. The website features charming animations, thoughtful interactions, and a comfortable user experience.
 
-![Coffee Date Invitation](<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/X7MVQ2Js/Screenshot-2025-03-18-184707.png' border='0' alt='Screenshot-2025-03-18-184707'/></a>)
+(<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/X7MVQ2Js/Screenshot-2025-03-18-184707.png' border='0' alt='Screenshot-2025-03-18-184707'/></a>)
 
 ## ✨ Features
 
